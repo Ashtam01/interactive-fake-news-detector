@@ -1,0 +1,13 @@
+
+venv/
+__pycache__/
+*.pyc
+
+
+data/Fake.csv
+data/True.csv
+
+
+.vscode/
+.idea/
+*.DS_Store
