@@ -2,9 +2,8 @@ Interactive Fake News Detector
 
 An interactive web app that uses a machine learning model to classify news articles as "Real" or "Fake".
 
-🚀 Live Demo Link
+🚀 Live Demo Link: https://interactive-fake-news-detector.streamlit.app/
 
-(This link will be added after deployment!)
 
 Features
 
